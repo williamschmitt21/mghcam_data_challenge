@@ -1,6 +1,6 @@
 {
   "name": "mghcam_data_challenge",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A data challenge for technical hires at MGH-CAM.",
   "scripts": {
     "release:major": "changelog -M && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version major && git push origin && git push origin --tags",
