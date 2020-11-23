@@ -29,7 +29,7 @@ We'd like you to merge these two datasets into one tidy dataset for your subsequ
 - Reduce the dataset to the variables you need for subsequent work (see below)
 - Build a data dictionary to describe the variables present within your final dataset.
 
-In [/docs](./docs) we have provided the "Codebook" for the REDCap project where data was collected. This codebook provides a window into what data some of the variables in the `.csv` files reflect. The leftmost column reflects the variable name, while the rightmost column provides the mapping between values and labels. If you have questions about variables and what they represent, feel free to contact Kevin Potter. It is a usual part of the process to have to check in with team members regarding confusingly-labeled variables, so do not worry if you have questions!
+In [/docs](./docs) we have provided the "Codebook" for the REDCap project where data was collected. This codebook provides a window into what data some of the variables in the `.csv` files reflect. The leftmost column reflects the variable name, while the rightmost column provides the mapping between values and labels. If you have questions about variables and what they represent, feel free to contact Kevin Potter or William Schmitt. It is a usual part of the process to have to check in with team members regarding confusingly-labeled variables, so do not worry if you have questions!
 
 ### Part 2: Summarize the data
 
