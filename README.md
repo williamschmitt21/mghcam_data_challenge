@@ -68,4 +68,4 @@ Our lab's codebase is predominantly R. We would love to see your work in this la
 
 ## Submission
 
-To submit your work, please upload the relevant files including code, a README file that allows us to navigate your work, and the final deliverables to this [DropBox folder](https://www.dropbox.com/request/NNPDIjcjG4AeSy2QqdMO). 
+To submit your work, please upload the relevant files including code, a README file that allows us to navigate your work, and the final deliverables to this [DropBox folder](https://www.dropbox.com/request/NNPDIjcjG4AeSy2QqdMO). If you would prefer to submit a git repo, please feel free to upload a file (e.g. `.docx` or `.pdf`) with the link to your GitHub repo. Please ensure your visiblity settings allow us to see and clone the repo.
